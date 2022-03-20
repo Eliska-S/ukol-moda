@@ -45,7 +45,6 @@ dist
 .vscode
 
 # Mac OS General
-
 .DS_Store
 .AppleDouble
 .LSOverride
